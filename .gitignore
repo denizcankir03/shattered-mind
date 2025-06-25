@@ -1,0 +1,27 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+.DS_Store
+*.apk
+*.aab
+*.exe
+
+# Visual Studio
+.vs/
+*.suo
+*.sln
+
+# Rider
+.idea/
+*.sln.iml
